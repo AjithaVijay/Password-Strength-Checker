@@ -20,7 +20,7 @@ A simple Password Strength Checker built using HTML, CSS, and JavaScript. The ap
 - More than 10 characters → Strong
 
 ## Website
-
+https://ajithavijay.github.io/Password-Strength-Checker/
 
 ## Author
 Ajitha V
